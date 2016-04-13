@@ -6,9 +6,7 @@
 package gcitapp1;
 
 import Panels.AdminPanel;
-import Panels.AuthorInput;
-import Panels.TableEnum;
-import Panels.BookInput;
+
 import Panels.BorrowerPanel;
 import Panels.LibrarianPanel;
 import Panels.LoginPanel;
